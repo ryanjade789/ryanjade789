@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryanjade789
 - 👀 I’m interested in swimming
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on everyone who are interested in JavaScript 
+- 💞️ I’m looking to collaborate on everyone who are interested in JavaScript and PHP
 - 📫 How to reach me 21-34023@g.batstate-u.edu.ph
 
 <!---
